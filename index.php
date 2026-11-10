@@ -1,5 +1,5 @@
 <?php
-require_once 'Config/db.php';
+require_once 'Config/DB.php';
 session_start();
 ?>
 <!DOCTYPE html>
